@@ -5,169 +5,169 @@
 ![Mods](https://img.shields.io/badge/Mods-36--39-orange)
 ![License](https://img.shields.io/badge/License-ARR-red)
 
-**The ultimate optimization modpack for Minecraft Fabric.** 36-39 carefully selected mods to maximize FPS, reduce lag, and improve the gaming experience without sacrificing compatibility.
+**El modpack de optimización definitivo para Minecraft Fabric.** 36-39 mods cuidadosamente seleccionados para maximizar FPS, reducir lag, y mejorar la experiencia de juego sin sacrificar compatibilidad.
 
-Developed by **Hydra Studio & HyperHard Network** — Inspired by the gaming community that has many technical limitations, designed for extreme performance on low-end, mid-range, and high-end PCs.
+Desarrollado por **Hydra Studio & HyperHard Network** — Inspirado en la comunidad gamer que tiene muchas limitaciones técnicas, diseñado para rendimiento extremo en PCs de gama baja, media y alta.
 
 ---
 
-## What's included?
+## ¿Qué incluye?
 
-### ⚡ Core Performance Optimization
+### ⚡ Optimización Central (Core Performance)
 
-| Mod | Description | Impact |
-|-----|-------------|--------|
-| **Sodium** | Rendering engine rewritten from scratch. Replaces Minecraft's renderer with a much faster one. Dramatically reduces CPU and GPU usage. | +200-400% FPS |
-| **Sodium Extra** | Additional configurations for Sodium such as FPS limits, VSync, and advanced rendering options. | Extra configuration |
-| **Reese's Sodium Options** | Improved interface for Sodium options. Easier to configure and understand. | Better UX |
-| **Lithium** | Optimizes game logic: pathfinding, redstone, entity ticks, worldgen. No visual changes. | +30-100% TPS |
-| **FerriteCore** | Reduces game memory usage by compressing block and chunk data. Ideal for low-RAM PCs. | -30-50% RAM |
-| **EntityCulling** | Doesn't render entities that are off-screen. Saves unnecessary CPU and GPU usage. | +15-40% FPS |
-| **MoreCulling** | Extends culling to more objects: item frames, armor stands, mobs with the same texture. | +10-25% FPS |
-| **ScalableLux** | Optimized lighting engine. Reduces light calculation time without visual errors. | +10-20% FPS |
-| **Dynamic FPS** | Reduces FPS when Minecraft is in the background or minimized. Saves battery and CPU. | -50% CPU idle |
-| **BadOptimizations** | Fixes multiple performance issues that Mojang hasn't resolved. | Variable |
-| **Ksyxis** | Optimizes chunk loading by avoiding unnecessary loads. Smoother world. | +15-30% FPS |
-| **Alternate Current** | Replaces the redstone system with a much faster and more efficient one. | +50-200% Redstone |
-| **LY Clumps** | Groups entities to reduce draw calls. Ideal for farms. | +10-30% FPS |
-| **ImmediatelyFast** | Immediate rendering for UI and text elements. Reduces lag in inventories. | +20-40% FPS |
-| **Debugify** | Fixes client bugs that affect performance. Maintained by the community. | Variable |
-| **Spark** | Performance profiler. Identifies bottlenecks in your game. | Diagnostics |
+| Mod | Descripción | Impacto |
+|-----|-------------|---------|
+| **Sodium** | Motor de rendering reescrito desde cero. Reemplaza el renderer de Minecraft con uno mucho más rápido. Reduce el uso de CPU y GPU drásticamente. | +200-400% FPS |
+| **Sodium Extra** | Configuraciones adicionales para Sodium como límites de FPS, VSync, y opciones avanzadas de rendering. | Configuración extra |
+| **Reese's Sodium Options** | Interfaz mejorada para las opciones de Sodium. Más fácil de configurar y entender. | Mejor UX |
+| **Lithium** | Optimiza la lógica del juego: pathfinding, redstone, tick entities, worldgen. Sin cambios visuales. | +30-100% TPS |
+| **FerriteCore** | Reduce el uso de memoria del juego comprimiendo datos de bloques y chunks. Ideal para PCs con poca RAM. | -30-50% RAM |
+| **EntityCulling** | No renderiza entidades que están fuera de la pantalla. Ahorra CPU y GPU innecesariamente. | +15-40% FPS |
+| **MoreCulling** | Extiende el culling a más objetos: item frames, armor stands, mobs con la misma textura. | +10-25% FPS |
+| **ScalableLux** | Motor de iluminación optimizado. Reduce el tiempo de cálculo de luz sin errores visuales. | +10-20% FPS |
+| **Dynamic FPS** | Reduce los FPS cuando Minecraft está en segundo plano o minimizado. Ahorra batería y CPU. | -50% CPU idle |
+| **BadOptimizations** | Corrige múltiples problemas de rendimiento que Mojang no ha resuelto. | Variable |
+| **Ksyxis** | Optimiza la carga de chunks evitando cargas innecesarias. Mundo más fluido. | +15-30% FPS |
+| **Alternate Current** | Reemplaza el sistema de redstone con uno mucho más rápido y eficiente. | +50-200% Redstone |
+| **LY Clumps** | Agrupa entidades para reducir el número de draw calls. Ideal para granjas. | +10-30% FPS |
+| **ImmediatelyFast** | Rendering inmediato para elementos de UI y texto. Reduce el lag en inventarios. | +20-40% FPS |
+| **Debugify** | Corrige bugs del cliente que afectan el rendimiento. Mantenido por la comunidad. | Variable |
+| **Spark** | Profiler de rendimiento. Identifica cuellos de botella en tu juego. | Diagnóstico |
 
-### 🎨 Rendering & Visuals
+### 🎨 Rendering y Visual
 
-| Mod | Description |
+| Mod | Descripción |
 |-----|-------------|
-| **Iris Shaders** | Full OptiFine shader support. Compatible with Sodium for maximum performance. |
-| **LambDynamicLights** | Dynamic lights: torches, lanterns, and entities illuminate the environment as they move. |
-| **Continuity** | Connected textures (glass panes, bookshelves, etc). Optional, can be disabled. |
-| **BetterGrassify** | Improves the appearance of grass and other natural blocks. |
-| **Entity Model Features** | Improved entity models for resource packs. |
-| **Entity Texture Features** | Improved entity textures: emissive textures, custom colors, etc. |
+| **Iris Shaders** | Soporte completo para shaders OptiFine. Compatibilidad con Sodium para máximo rendimiento. |
+| **LambDynamicLights** | Luces dinámicas: las antorchas, linternas y entidades iluminan el entorno al moverse. |
+| **Continuity** | Texturas conectadas (glass panes, bookshelves, etc). Opcional, se puede desactivar. |
+| **BetterGrassify** | Mejora la apariencia de la hierba y otros bloques naturales. |
+| **Entity Model Features** | Modelos de entidad mejorados para resource packs. |
+| **Entity Texture Features** | Texturas de entidad mejoradas: emissive textures, custom colors, etc. |
 
-### 🛠️ Utility & Information
+### 🛠️ Utilidad e Información
 
-| Mod | Description |
+| Mod | Descripción |
 |-----|-------------|
-| **BetterF3** | Improved and more readable debug screen. Colors, organized layout. |
-| **Mod Menu** | Complete mod menu. Configure all mods from one place. |
-| **Ok Zoomer** | Zoom function with configurable key. Replaces OptiFine zoom. |
-| **Shoulder Surfing** | Improved third person: side view, customizable angle. |
-| **Simple Voice Chat** | Proximity voice chat. Talk to nearby players without Discord. |
+| **BetterF3** | Pantalla de debug mejorada y más legible. Colores, layout organizado. |
+| **Mod Menu** | Menú de mods completo. Configura todos los mods desde un solo lugar. |
+| **Ok Zoomer** | Función de zoom con tecla configurable. Reemplaza OptiFine zoom. |
+| **Shoulder Surfing** | Tercera persona mejorada: vista lateral, ángulo personalizable. |
+| **Simple Voice Chat** | Chat de voz proximity. Habla con jugadores cercanos sin Discord. |
 
-### 🔧 Tools (Builders/Technical)
+### 🔧 Herramientas (Builders/Technical)
 
-| Mod | Description |
+| Mod | Descripción |
 |-----|-------------|
-| **Litematica** | Schematic mod. Copy builds between worlds or servers. |
-| **MaLiLib** | Library for Litematica, MiniHUD, and Tweakeroo. |
-| **MiniHUD** | Mini HUD with coordinates, biome, light, and more info on screen. |
-| **Tweakeroo** | Client tweaks: auto-fish, scaffold, tweak placing, and more. |
+| **Litematica** | Mod de esquemáticos. Copia construcciones entre mundos o servidores. |
+| **MaLiLib** | Biblioteca para Litematica, MiniHUD y Tweakeroo. |
+| **MiniHUD** | Mini HUD con coordenadas, biome, luz, y más información en pantalla. |
+| **Tweakeroo** | Tweaks del cliente: auto-fish, scaffold, tweak placing, y más. |
 
-### 📚 Libraries
+### 📚 Bibliotecas (Libraries)
 
-| Mod | Description |
+| Mod | Descripción |
 |-----|-------------|
-| **Fabric API** | Official Fabric API. Required by most mods. |
-| **Cloth Config** | Configuration library. Used by many mods for their options. |
-| **YACL** | Yet Another Config Lib. Modern and elegant configuration. |
-| **Forge Config API Port** | Bridge between Forge and Fabric configurations. |
-| **Puzzles Lib** | Shared library between Fabric mods. |
-| **Architectury API** | Cross-platform API for multi-loader mods. |
+| **Fabric API** | API oficial de Fabric. Requerida por la mayoría de mods. |
+| **Cloth Config** | Biblioteca de configuración. Usada por muchos mods para sus opciones. |
+| **YACL** | Yet Another Config Lib. Configuración moderna y elegante. |
+| **Forge Config API Port** | Puente entre configuraciones de Forge y Fabric. |
+| **Puzzles Lib** | Biblioteca compartida entre mods de Fabric. |
+| **Architectury API** | API cross-platform para mods multi-loader. |
 
 ---
 
-## Compatibility
+## Compatibilidad
 
-| Version | Status | Mods | Size | Download |
-|---------|--------|------|------|----------|
-| MC 26.2 | ✅ Complete | 39 mods | 41 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.2/Hydra-Opti-26.2.rar) |
-| MC 26.1.2 | ✅ Complete | 39 mods | 41 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.1.2/Hydra-Opti-26.1.2.rar) |
-| MC 1.21.11 | ✅ Complete | 36 mods | 32 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.11/Hydra-Opti-1.21.11.rar) |
-| MC 1.21.10 | ✅ Complete | 39 mods | 43 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.10/Hydra-Opti-1.21.10.rar) |
-| MC 1.21.1 | ✅ Complete | 38 mods | 40 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.1/Hydra-Opti-1.21.1.rar) |
+| Versión | Estado | Mods | Tamaño | Descargar |
+|---------|--------|------|--------|-----------|
+| MC 26.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.2/Hydra-Opti-26.2.rar) |
+| MC 26.1.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.1.2/Hydra-Opti-26.1.2.rar) |
+| MC 1.21.11 | ✅ Completo | 36 mods | 32 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.11/Hydra-Opti-1.21.11.rar) |
+| MC 1.21.10 | ✅ Completo | 39 mods | 43 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.10/Hydra-Opti-1.21.10.rar) |
+| MC 1.21.1 | ✅ Completo | 38 mods | 40 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.1/Hydra-Opti-1.21.1.rar) |
 
-**Loader:** Fabric (all mods are Fabric)
-
----
-
-## Installation
-
-### Step 1: Install Fabric Loader
-1. Go to [fabricmc.net](https://fabricmc.net)
-2. Download Fabric Loader for your MC version
-3. Run the installer and select your MC version
-4. Open Minecraft Launcher — you should see a `fabric-loader` profile
-
-### Step 2: Download the Modpack
-1. Go to [Releases](../../releases) or download the `.rar` for your version
-2. Extract the `.rar` file using WinRAR or 7-Zip
-
-### Step 3: Install Mods
-1. Open the extracted `mods` folder
-2. Select **ALL** `.jar` files inside
-3. Copy them (`Ctrl+C`)
-4. Navigate to: `%appdata%\.minecraft\mods\`
-5. Paste all `.jar` files here (`Ctrl+V`)
-
-### Step 4: Apply Optimized Settings
-1. Copy the `options.txt` file from the modpack
-2. Navigate to: `%appdata%\.minecraft\`
-3. Paste `options.txt` here (overwrite if asked)
-
-### Step 5: Launch
-1. Select the `fabric-loader` profile in Minecraft Launcher
-2. Click "Play"
-3. Enjoy **+30-400% FPS!**
+**Loader:** Fabric (todos los mods son Fabric)
 
 ---
 
-## Video Settings (Applied by options.txt)
+## Instalación
 
-| Setting | Value |
-|---------|-------|
-| Render Distance | 8 chunks |
-| Simulation Distance | 8 chunks |
-| Graphics | Fast |
-| VSync | Off |
-| Max FPS | Unlimited |
-| Clouds | Off |
-| Particles | Minimal |
-| Smooth Lighting | Minimum |
-| Mipmap Levels | 2 |
-| Entity Distance | 50% |
+### Paso 1: Instalar Fabric Loader
+1. Ve a [fabricmc.net](https://fabricmc.net)
+2. Descarga Fabric Loader para tu versión de MC
+3. Ejecuta el instalador y selecciona tu versión de MC
+4. Abre el Minecraft Launcher — deberías ver un perfil `fabric-loader`
+
+### Paso 2: Descargar el Modpack
+1. Haz clic en "Descargar" en la tabla de arriba
+2. Extrae el archivo `.rar` usando WinRAR o 7-Zip
+
+### Paso 3: Instalar los Mods
+1. Abre la carpeta `mods" extraída
+2. Selecciona **TODOS** los archivos `.jar` dentro
+3. Cópialos (`Ctrl+C`)
+4. Navega a: `%appdata%\.minecraft\mods\`
+5. Pega todos los archivos `.jar` aquí (`Ctrl+V`)
+
+### Paso 4: Aplicar Configuración Optimizada
+1. Copia el archivo `options.txt` del modpack
+2. Navega a: `%appdata%\.minecraft\`
+3. Pega `options.txt` aquí (sobreescribir si te lo pide)
+
+### Paso 5: Iniciar
+1. Selecciona el perfil `fabric-loader` en el Minecraft Launcher
+2. Haz clic en "Jugar"
+3. ¡Disfruta de **+30-400% FPS!**
 
 ---
 
-## Troubleshooting
+## Configuración de Video (Aplicada por options.txt)
+
+| Opción | Valor |
+|--------|-------|
+| Distancia de Renderizado | 8 chunks |
+| Distancia de Simulación | 8 chunks |
+| Gráficos | Rápido |
+| VSync | No |
+| Máximos FPS | Ilimitados |
+| Nubes | No |
+| Partículas | Mínimas |
+| Iluminación Suave | Mínima |
+| Niveles de Mipmap | 2 |
+| Distancia de Entidades | 50% |
+
+---
+
+## Solución de Problemas
 
 **"Incompatible mods found"**
-→ Make sure you're using the CORRECT version. Each modpack is for a specific MC version only.
+→ Asegúrate de usar la versión CORRECTA. Cada modpack es para una versión específica de MC.
 
-**Game crashes on startup**
-→ Make sure Fabric Loader is installed. Make sure you copied ALL .jar files to `.minecraft\mods\`.
+**El juego falla al iniciar**
+→ Asegúrate de tener Fabric Loader instalado. Asegúrate de copiar TODOS los archivos .jar a `.minecraft\mods\`.
 
-**How to allocate more RAM?**
-→ Minecraft Launcher > Installations > Edit your profile > More Options > JVM Arguments > Change `-Xmx2G` to `-Xmx4G`
+**¿Cómo asignar más RAM?**
+→ Minecraft Launcher > Instalaciones > Editar tu perfil > Más Opciones > Argumentos JVM > Cambia `-Xmx2G` por `-Xmx4G`
 
 ---
 
-## Server Hosting
+## Hosting de Servidor
 
-Our recommended server hosting: **SuperCores Hosting** — Miami, Florida & Latam
+Nuestro hosting recomendado: **SuperCores Hosting** — Miami, Florida y Latam
 
 - 🌐 Web: [supercores.host](https://supercores.host/)
-- 💬 Discord: [Join](https://discord.gg/q3Zv8sv3N3)
+- 💬 Discord: [Unirse](https://discord.gg/q3Zv8sv3N3)
 
-**MC Server:** mc.hyperhard.space
+**Servidor MC:** mc.hyperhard.space
 
 ---
 
 ## Discord
 
-Join our community for support, suggestions, and updates:
+Únete a nuestra comunidad para soporte, sugerencias y actualizaciones:
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?logo=discord&logoColor=white)](https://discord.gg/dkZpFtXXCj)
+[![Discord](https://img.shields.io/badge/Discord-Unirse-7289da?logo=discord&logoColor=white)](https://discord.gg/dkZpFtXXCj)
 
 ---
 
@@ -175,17 +175,17 @@ Join our community for support, suggestions, and updates:
 
 - **Modrinth:** [hydra-studio-opti-modpack](https://modrinth.com/modpack/hydra-studio-opti-modpack)
 - **Discord:** [Hydra Studio](https://discord.gg/dkZpFtXXCj)
-- **Server:** mc.hyperhard.space
+- **Servidor:** mc.hyperhard.space
 
 ---
 
-## Credits
+## Créditos
 
-Developed by **Hydra Studio**
+Desarrollado por **Hydra Studio**
 
-Inspired by optimizations from: Sodium, Lithium, FerriteCore, C2ME, and the entire Fabric community.
+Inspirado en optimizaciones de: Sodium, Lithium, FerriteCore, C2ME, y toda la comunidad de Fabric.
 
 ---
 
-*Version 1.0 — July 2026*
-*Fabric | Multi-version | Extreme optimization*
+*Versión 1.0 — Julio 2026*
+*Fabric | Multi-versión | Optimización extrema*
