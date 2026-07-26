@@ -54,18 +54,17 @@
 
 ### Preparación
 
-#### 7. Modpack obligatorio
-- **Debes usar el modpack oficial de Hydra Studio** para participar.
-- No se permite usar mods que den ventaja injusta (x-ray, kill aura, auto-clicker, etc.).
-- El modpack incluye Simple Voice Chat — es obligatorio tenerlo instalado.
+#### 7. Modpack (opcional)
+- El uso del modpack oficial de Hydra Studio es **opcional**, pero **no se permite** el uso de clientes o mods que den ventaja injusta (x-ray, kill aura, auto-clicker, barrios, etc.).
+- El modpack incluye **Simple Voice Chat** — si decides usarlo, tendrás esta función disponible.
 
 #### 8. Versión de Minecraft
-- Usa la versión de Minecraft indicada en el modpack.
+- Usa la **versión de Minecraft indicada en el Discord del evento**.
 - No se permite usar versiones diferentes a las autorizadas.
 
 #### 9. Configuración de video
-- La distancia de renderizado debe estar en **8 chunks o menos**.
-- Se recomienda usar la configuración del `options.txt` incluido en el modpack.
+- Configura tu video **al gusto de cada quien**.
+- Recomendamos bajar la distancia de renderizado si tu PC es de bajos recursos.
 
 ---
 
@@ -83,7 +82,7 @@
   - Speed hack / fly hack
   - Auto-clicker / auto-bridge
   - Packet exploit / ghost mode
-  - Cualquier mod que dé ventaja injusta
+  - Cualquier mod o cliente que dé ventaja injusta
 
 #### 12. Exploits
 - No uses bugs o glitches para obtener ventaja.
@@ -98,7 +97,7 @@
 - Puedes hablar por **Simple Voice Chat** (proximity).
 - Puedes escribir en el chat global del juego.
 - No spammees en el chat.
-- No reveles la ubicación de otros jugadores por voice chat.
+- Muéstralo todo, ¡queremos shouow! 🎤🔥
 
 #### 15. Zona segura
 - El **border** se cierra progresivamente.
@@ -111,7 +110,7 @@
 
 #### 17. Spectating
 - Al morir, quedas en **modo espectador**.
-- No reveles información de jugadores vivos por voice chat o DM.
+- **No reveles información de jugadores vivos** por voice chat o por DM de Discord.
 - No interfieras con el juego de los vivos.
 
 ---
@@ -128,25 +127,21 @@
 - No hagas comentarios ofensivos por voice chat.
 - No hagas "rage quit" de forma dramática.
 
-#### 20. Contenido de stream
-- Si streamas el evento, no muestres la ubicación de otros jugadores en tu pantalla.
-- No uses tu stream para dar información a otros jugadores ("stream sniping").
-
 ---
 
 ## 🔧 Reglas Técnicas
 
-### 21. Requisitos del sistema
-- **RAM recomendada:** 4 GB分配给 Minecraft
+### 20. Requisitos del sistema
+- **RAM recomendada:** 4 GB o más para Minecraft
 - **Java:** Java 17+ (incluido con el modpack)
 - **Conexión:** Estable, sin lag excesivo
 
-### 22. Conexión al servidor
+### 21. Conexión al servidor
 - IP del servidor: `us-1.av.supercores.host:25000`
 - No compartas la IP del servidor por canales públicos.
 - No intentes atacar el servidor (DDoS, flood, etc.).
 
-### 23. Modpack
+### 22. Modpack (si decides usarlo)
 - No modifiques el modpack sin autorización.
 - No añadas mods adicionales sin permiso.
 - No elimines mods del pack.
@@ -174,11 +169,11 @@ El desconocimiento de las reglas **no exime** de su cumplimiento.
 
 - Estas reglas pueden ser actualizadas sin previo aviso.
 - Las decisiones de staff son **definitivas**.
-- Si tienes dudas, pregunta en el canal **#inscripciones** o por DM a un moderador.
+- Si tienes dudas o necesitas ayuda, **abre un ticket** en el servidor de Discord o habla con un moderador.
 
 ---
 
 **¡Buena suerte en la arena! ⚔️**
 
-*Reglas v1.0 — Julio 2026*
+*Reglas v1.1 — Julio 2026*
 *Hydra Studio*
