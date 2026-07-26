@@ -1,0 +1,232 @@
+﻿# Hydra Studio Opti-Modpack
+# MC 26.1.2 - Fabric
+
+===========================================
+  HYDRA STUDIO OPTI-MODPACK v1.0
+  The Ultimate Fabric Optimization Pack
+===========================================
+
+ Developed by: Hydra Studio & HyperHard Network
+ Server Hosting: SuperCores - Miami, Florida
+ Website: https://supercores.host/
+ Discord: https://discord.gg/dkZpFtXXCj
+
+===========================================
+  WHAT'S INSIDE
+===========================================
+
+This modpack contains 36-39 carefully selected Fabric mods
+that maximize FPS, reduce lag, and improve the gaming experience.
+
+Core Optimizations:
+ - Sodium + Sodium Extra + Reese's Sodium Options (rendering engine)
+ - Lithium (game logic optimization)
+ - FerriteCore (memory optimization)
+ - EntityCulling (entity render optimization)
+ - MoreCulling (block render optimization)
+ - ScalableLux (lighting optimization)
+ - Dynamic FPS (FPS when idle)
+ - BadOptimizations (various optimizations)
+ - Ksyxis (chunk optimization)
+ - Alternate Current (redstone optimization)
+ - LY Clumps (entity clustering)
+ - ImmediatelyFast (fast rendering)
+ - Debugify (bug fixes)
+ - Spark (performance profiler)
+
+Visual & Rendering:
+ - LambDynamicLights (dynamic lights)
+ - Continuity (connected textures)
+ - BetterGrassify (better grass)
+ - Entity Model Features (entity models)
+ - Entity Texture Features (entity textures)
+
+Utility & Information:
+ - BetterF3 (debug screen)
+ - Mod Menu (mod menu)
+ - Ok Zoomer (zoom)
+ - Shoulder Surfing (third person view)
+ - Simple Voice Chat (voice communication)
+
+Tools (Builders/Technical):
+ - Litematica (schematic mod)
+ - MaLiLib (library for mods)
+ - MiniHUD (mini HUD)
+ - Tweakeroo (client tweaks)
+
+Libraries:
+ - Fabric API
+ - Cloth Config
+ - YACL
+ - Forge Config API Port
+ - Puzzles Lib
+ - Architectury API
+
+===========================================
+  INSTALLATION - STEP BY STEP
+===========================================
+
+IMPORTANT: Follow these steps EXACTLY.
+
+STEP 1: Install Fabric Loader
+-----------------------------
+1. Go to https://fabricmc.net
+2. Download Fabric Loader for MC 26.1.2
+3. Run the installer
+4. Select MC 26.1.2 and click "Install"
+5. Open Minecraft Launcher
+6. You should see a "fabric-loader-26.1.2" profile
+
+STEP 2: Extract this .rar file
+-------------------------------
+1. Right-click this .rar file
+2. Select "Extract Here" or use WinRAR/7-Zip
+3. You will see a folder with:
+   - mods/ (folder with .jar files)
+   - options.txt (video settings)
+   - README.txt (this file)
+
+STEP 3: Copy MODS
+------------------
+1. Open the extracted "mods" folder
+2. Select ALL .jar files inside
+3. Copy them (Ctrl+C)
+4. Navigate to: %appdata%\.minecraft\mods\
+   - Press Win+R, type: %appdata%\.minecraft\mods\
+   - Or go to: C:\Users\[YOUR_USER]\AppData\Roaming\.minecraft\mods\
+5. Paste all .jar files here (Ctrl+V)
+6. If folder doesn't exist, create it manually
+
+STEP 4: Copy OPTIONS.TXT (Video Settings)
+-------------------------------------------
+1. Copy the "options.txt" file from this modpack
+2. Navigate to: %appdata%\.minecraft\
+3. Paste options.txt here (OVERWRITE if asked)
+4. This sets render distance to 8 chunks and other optimizations
+
+STEP 5: Launch Minecraft
+-------------------------
+1. Open Minecraft Launcher
+2. Select the "fabric-loader-26.1.2" profile
+3. Click "Play"
+4. Wait for mods to load
+5. Enjoy +30-400% FPS!
+
+===========================================
+  TROUBLESHOOTING
+===========================================
+
+PROBLEM: "Incompatible mods found"
+SOLUTION: Make sure you're using the CORRECT version.
+          This modpack is for MC 26.1.2 only.
+
+PROBLEM: Game crashes on startup
+SOLUTION: 1. Make sure Fabric Loader is installed
+          2. Make sure you copied ALL .jar files
+          3. Delete META-INF folder in .minecraft if exists
+          4. Allocate 4GB RAM to Minecraft
+
+PROBLEM: How to allocate more RAM?
+SOLUTION: 1. Minecraft Launcher > Installations
+          2. Click on your Fabric profile > Edit
+          3. More Options > JVM Arguments
+          4. Change -Xmx2G to -Xmx4G
+
+PROBLEM: Mods not loading
+SOLUTION: 1. Make sure .jar files are in .minecraft\mods\
+          2. NOT in a subfolder inside mods/
+          3. Restart Minecraft
+
+===========================================
+  VIDEO SETTINGS (Applied by options.txt)
+===========================================
+
+Render Distance:    8 chunks (optimized)
+Simulation Distance: 8 chunks (optimized)
+Graphics:          Fast
+VSync:             Off
+Max FPS:           Unlimited
+Clouds:            Off
+Particles:         Minimal
+Smooth Lighting:   Minimum
+Mipmap Levels:     2
+Entity Distance:   50%
+Biome Blend:       1x1
+
+===========================================
+  MOD LIST
+===========================================
+
+ - alternate-current-mc26.1-1.9.0.jar
+ - architectury-fabric-20.0.4.jar
+ - BadOptimizations-2.4.1-26.1-fabric.jar
+ - BetterF3-18.0.2-Fabric-26.1.jar
+ - BetterGrassify-1.8.7+fabric.26.1.2.jar
+ - c2me-fabric-mc26.1.2-0.4.0-alpha.0.44.jar
+ - cloth-config-26.1.154.jar
+ - continuity-3.0.1-beta.2+26.1.jar
+ - debugify-26.1.2.2.jar
+ - dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar
+ - entity_model_features-3.2.4-26.1-fabric.jar
+ - entity_texture_features_26.1-fabric-7.1.jar
+ - entityculling-fabric-1.10.5-mc26.1.jar
+ - fabric-api-0.155.2+26.1.2.jar
+ - ferritecore-9.0.0-fabric.jar
+ - ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar
+ - ImmediatelyFast-Fabric-1.15.3+26.1.jar
+ - iris-fabric-1.11.2+mc26.1.2.jar
+ - Ksyxis-1.4.3.jar
+ - lambdynamiclights-4.11.0+26.1.2.jar
+ - litematica-fabric-26.1.2-0.27.10.jar
+ - lithium-fabric-0.24.6+mc26.1.2.jar
+ - ly-clumps-v1.1.0.jar
+ - malilib-fabric-26.1.2-0.28.9.jar
+ - minihud-fabric-26.1.2-0.39.8.jar
+ - modmenu-18.0.0.jar
+ - moreculling-fabric-26.1.2-1.7.2.jar
+ - ok_zoomer-17.0.0-beta.5.jar
+ - PuzzlesLib-v26.1.12-mc26.1.x-Fabric.jar
+ - reeses-sodium-options-fabric-2.2.3+mc26.1.2.jar
+ - ScalableLux-fabric-0.3.0-alpha.0.2-all.jar
+ - ShoulderSurfing-Fabric-26.1.2-5.0.7.jar
+ - sodium-extra-fabric-0.9.3+mc26.1.2.jar
+ - sodium-fabric-0.9.1+mc26.1.2.jar
+ - spark-1.10.173-fabric.jar
+ - tweakeroo-fabric-26.1.2-0.28.6.jar
+ - ViaFabric-0.4.21+176-26.x.jar
+ - voicechat-fabric-2.6.21+26.1.2.jar
+ - yet_another_config_lib_v3-3.9.6+26.1-fabric.jar
+
+===========================================
+  CREDITS
+===========================================
+
+Developed by: Hydra Studio
+Server Hosting: SuperCores Hosting (Miami, Florida & Latam)
+  Web: https://supercores.host/
+  Discord: https://discord.gg/q3Zv8sv3N3
+
+Inspired by optimizations from:
+ - Sodium, Lithium, FerriteCore, C2ME
+ - And the entire Fabric community
+
+===========================================
+  LINKS
+===========================================
+
+GitHub: https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks
+Discord: https://discord.gg/dkZpFtXXCj
+MC Server: mc.hyperhard.space
+
+===========================================
+  VERSION INFO
+===========================================
+
+Version: 1.0
+Date: July 2026
+Loader: Fabric
+MC Version: 26.1.2
+Mods Count: 39
+
+===========================================
+
