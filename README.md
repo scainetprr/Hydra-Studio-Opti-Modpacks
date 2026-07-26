@@ -79,13 +79,13 @@ Developed by **Hydra Studio & HyperHard Network** — Inspired by the gaming com
 
 ## Compatibility
 
-| Version | Status | Mods | Size |
-|---------|--------|------|------|
-| MC 26.2 | ✅ Complete | 39 mods | 41 MB |
-| MC 26.1.2 | ✅ Complete | 39 mods | 41 MB |
-| MC 1.21.11 | ✅ Complete | 36 mods | 32 MB |
-| MC 1.21.10 | ✅ Complete | 39 mods | 43 MB |
-| MC 1.21.1 | ✅ Complete | 38 mods | 40 MB |
+| Version | Status | Mods | Size | Download |
+|---------|--------|------|------|----------|
+| MC 26.2 | ✅ Complete | 39 mods | 41 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.2/Hydra-Opti-26.2.rar) |
+| MC 26.1.2 | ✅ Complete | 39 mods | 41 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.1.2/Hydra-Opti-26.1.2.rar) |
+| MC 1.21.11 | ✅ Complete | 36 mods | 32 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.11/Hydra-Opti-1.21.11.rar) |
+| MC 1.21.10 | ✅ Complete | 39 mods | 43 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.10/Hydra-Opti-1.21.10.rar) |
+| MC 1.21.1 | ✅ Complete | 38 mods | 40 MB | [Download](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.1/Hydra-Opti-1.21.1.rar) |
 
 **Loader:** Fabric (all mods are Fabric)
 
@@ -174,7 +174,6 @@ Join our community for support, suggestions, and updates:
 ## Links
 
 - **Modrinth:** [hydra-studio-opti-modpack](https://modrinth.com/modpack/hydra-studio-opti-modpack)
-- **GitHub:** [Hydra-Studio-Opti-Modpacks](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks)
 - **Discord:** [Hydra Studio](https://discord.gg/dkZpFtXXCj)
 - **Server:** mc.hyperhard.space
 
