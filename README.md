@@ -104,7 +104,7 @@ Desarrollado por **Hydra Studio & HyperHard Network** — Inspirado en la comuni
 2. Extrae el archivo `.zip` usando WinRAR, 7-Zip o Windows (clic derecho > Extraer todo)
 
 ### Paso 3: Instalar los Mods
-1. Abre la carpeta `mods" extraída
+1. Abre la carpeta `mods` extraída
 2. Selecciona **TODOS** los archivos `.jar` dentro
 3. Cópialos (`Ctrl+C`)
 4. Navega a: `%appdata%\.minecraft\mods\`
