@@ -104,7 +104,7 @@ Desarrollado por **Hydra Studio & HyperHard Network** — Inspirado en la comuni
 2. Extrae el archivo `.zip` usando WinRAR, 7-Zip o Windows (clic derecho > Extraer todo)
 
 ### Paso 3: Instalar los Mods
-1. Abre la carpeta `mods" extraída
+1. Abre la carpeta `mods` extraída
 2. Selecciona **TODOS** los archivos `.jar` dentro
 3. Cópialos (`Ctrl+C`)
 4. Navega a: `%appdata%\.minecraft\mods\`
@@ -174,6 +174,7 @@ Nuestro hosting recomendado: **SuperCores Hosting** — Miami, Florida y Latam
 ## Links
 
 - **Modrinth:** [hydra-studio-opti-modpack](https://modrinth.com/modpack/hydra-studio-opti-modpack)
+- **CurseForge:** [Opti Hydra Modpack](https://www.curseforge.com/minecraft/modpacks/opti-hydra)
 - **Discord:** [Hydra Studio](https://discord.gg/dkZpFtXXCj)
 - **Servidor:** mc.hyperhard.space
 
@@ -181,7 +182,7 @@ Nuestro hosting recomendado: **SuperCores Hosting** — Miami, Florida y Latam
 
 ## Créditos
 
-Desarrollado por **Hydra Studio**
+Desarrollado por **Hydra Studio & HyperHard Network**
 
 Inspirado en optimizaciones de: Sodium, Lithium, FerriteCore, C2ME, y toda la comunidad de Fabric.
 
