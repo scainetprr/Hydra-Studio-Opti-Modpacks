@@ -81,11 +81,11 @@ Desarrollado por **Hydra Studio & HyperHard Network** — Inspirado en la comuni
 
 | Versión | Estado | Mods | Tamaño | Descargar |
 |---------|--------|------|--------|-----------|
-| MC 26.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.2/Hydra-Opti-26.2.rar) |
-| MC 26.1.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.1.2/Hydra-Opti-26.1.2.rar) |
-| MC 1.21.11 | ✅ Completo | 36 mods | 32 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.11/Hydra-Opti-1.21.11.rar) |
-| MC 1.21.10 | ✅ Completo | 39 mods | 43 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.10/Hydra-Opti-1.21.10.rar) |
-| MC 1.21.1 | ✅ Completo | 38 mods | 40 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.1/Hydra-Opti-1.21.1.rar) |
+| MC 26.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.2/Hydra-Opti-26.2.zip) |
+| MC 26.1.2 | ✅ Completo | 39 mods | 41 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-26.1.2/Hydra-Opti-26.1.2.zip) |
+| MC 1.21.11 | ✅ Completo | 36 mods | 32 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.11/Hydra-Opti-1.21.11.zip) |
+| MC 1.21.10 | ✅ Completo | 39 mods | 43 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.10/Hydra-Opti-1.21.10.zip) |
+| MC 1.21.1 | ✅ Completo | 38 mods | 40 MB | [Descargar](https://github.com/scainetprr/Hydra-Studio-Opti-Modpacks/raw/main/MC-1.21.1/Hydra-Opti-1.21.1.zip) |
 
 **Loader:** Fabric (todos los mods son Fabric)
 
@@ -101,7 +101,7 @@ Desarrollado por **Hydra Studio & HyperHard Network** — Inspirado en la comuni
 
 ### Paso 2: Descargar el Modpack
 1. Haz clic en "Descargar" en la tabla de arriba
-2. Extrae el archivo `.rar` usando WinRAR o 7-Zip
+2. Extrae el archivo `.zip` usando WinRAR, 7-Zip o Windows (clic derecho > Extraer todo)
 
 ### Paso 3: Instalar los Mods
 1. Abre la carpeta `mods" extraída
