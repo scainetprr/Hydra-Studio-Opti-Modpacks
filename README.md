@@ -174,6 +174,7 @@ Nuestro hosting recomendado: **SuperCores Hosting** — Miami, Florida y Latam
 ## Links
 
 - **Modrinth:** [hydra-studio-opti-modpack](https://modrinth.com/modpack/hydra-studio-opti-modpack)
+- **CurseForge:** [Opti Hydra Modpack](https://www.curseforge.com/minecraft/modpacks/opti-hydra)
 - **Discord:** [Hydra Studio](https://discord.gg/dkZpFtXXCj)
 - **Servidor:** mc.hyperhard.space
 
@@ -181,7 +182,7 @@ Nuestro hosting recomendado: **SuperCores Hosting** — Miami, Florida y Latam
 
 ## Créditos
 
-Desarrollado por **Hydra Studio**
+Desarrollado por **Hydra Studio & HyperHard Network**
 
 Inspirado en optimizaciones de: Sodium, Lithium, FerriteCore, C2ME, y toda la comunidad de Fabric.
 
