@@ -15,7 +15,7 @@ Discord: https://discord.gg/dkZpFtXXCj
   QUE INCLUYE
 ===========================================
 
-Este modpack contiene 38 mods de Fabric cuidadosamente seleccionados
+Este modpack contiene 41 mods de Fabric cuidadosamente seleccionados
 que maximizan los FPS, reducen el lag, y mejoran la experiencia de juego.
 
 Optimizaciones Centrales:
@@ -33,6 +33,11 @@ Optimizaciones Centrales:
  - ImmediatelyFast (renderizado rapido)
  - Debugify (correccion de bugs)
  - Spark (profiler de rendimiento)
+ - C2ME (chunks asincronos)
+ - Krypton (optimizacion de red)
+ - BetterRenderDistance (distancia de renderizado mejorada)
+ - CullLeaves (culling de hojas y vegetacion)
+ - Fast IP Ping (ping rapido al conectar al servidor)
 
 Visual y Rendering:
  - LambDynamicLights (luces dinamicas)
@@ -40,6 +45,7 @@ Visual y Rendering:
  - BetterGrassify (mejor hierba)
  - Entity Model Features (modelos de entidad)
  - Entity Texture Features (texturas de entidad)
+ - Iris Shaders (OPCIONAL - en mods/_opcional-iris, deshabilitado por defecto)
 
 Utilidad e Informacion:
  - BetterF3 (pantalla de debug mejorada)
@@ -161,19 +167,22 @@ Mezcla de Biomas:          1x1
  - BadOptimizations-2.4.1-1.21.1.jar
  - BetterF3-11.0.3-Fabric-1.21.1.jar
  - BetterGrassify-1.8.7+fabric.1.21.1.jar
+ - BetterRenderDistance-1.2.1-beta+mc1.21.1.jar
  - c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar
  - cloth-config-15.0.140-fabric.jar
  - continuity-3.0.0+1.21.jar
+ - cullleaves-fabric-4.1.1+1.21.1.jar
  - Debugify-1.21.1+1.0.jar
  - dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar
  - entity_model_features-3.2.4-1.21-fabric.jar
  - entity_texture_features_1.21-fabric-7.1.jar
  - entityculling-fabric-1.10.5-mc1.21.1.jar
  - fabric-api-0.116.14+1.21.1.jar
+ - fast-ip-ping-v1.0.12-mc1.21.1-fabric.jar
  - ferritecore-7.0.3-fabric.jar
  - ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar
  - ImmediatelyFast-Fabric-1.6.11+1.21.1.jar
- - iris-fabric-1.8.14-beta.1+mc1.21.1.jar
+ - krypton-0.2.8.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.8.10+1.21.1.jar
  - litematica-fabric-1.21-0.19.61.jar
@@ -195,6 +204,9 @@ Mezcla de Biomas:          1x1
  - ViaFabric-0.4.15+84-main.jar
  - voicechat-fabric-1.21.1-2.6.21.jar
  - yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar
+
+Opcional (desactivado por defecto):
+ - mods/_opcional-iris/iris-fabric-1.8.14-beta.1+mc1.21.1.jar
 
 ===========================================
   CREDITOS
@@ -225,6 +237,6 @@ Version: 1.0
 Fecha: Julio 2026
 Loader: Fabric
 Version de MC: 1.21.1
-Cantidad de Mods: 38
+Cantidad de Mods: 41
 
 ===========================================

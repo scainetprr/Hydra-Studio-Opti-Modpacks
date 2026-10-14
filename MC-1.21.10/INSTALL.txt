@@ -15,7 +15,7 @@
   WHAT'S INSIDE
 ===========================================
 
-This modpack contains 36-39 carefully selected Fabric mods
+This modpack contains 42 carefully selected Fabric mods
 that maximize FPS, reduce lag, and improve the gaming experience.
 
 Core Optimizations:
@@ -33,6 +33,11 @@ Core Optimizations:
  - ImmediatelyFast (fast rendering)
  - Debugify (bug fixes)
  - Spark (performance profiler)
+ - C2ME (async chunks)
+ - Krypton (network optimization)
+ - BetterRenderDistance (improved render distance)
+ - CullLeaves (leaf culling)
+ - Fast IP Ping (fast server join ping)
 
 Visual & Rendering:
  - LambDynamicLights (dynamic lights)
@@ -40,6 +45,7 @@ Visual & Rendering:
  - BetterGrassify (better grass)
  - Entity Model Features (entity models)
  - Entity Texture Features (entity textures)
+ - Iris Shaders (OPTIONAL - in mods/_opcional-iris, disabled by default)
 
 Utility & Information:
  - BetterF3 (debug screen)
@@ -162,19 +168,22 @@ Biome Blend:       1x1
  - BadOptimizations-2.4.1-1.21.10.jar
  - BetterF3-16.0.3-Fabric-1.21.10.jar
  - BetterGrassify-1.8.6+fabric.1.21.10.jar
+ - BetterRenderDistance-1.2.0+mc1.21.9-1.21.10.jar
  - c2me-fabric-mc1.21.10-0.3.6+alpha.0.11.jar
  - cloth-config-20.0.149-fabric.jar
  - continuity-3.0.1-beta.2+1.21.10.jar
+ - cullleaves-fabric-4.1.1+1.21.10.jar
  - debugify-1.21.10+1.1.jar
  - dynamic-fps-3.11.6+minecraft-1.21.9-fabric.jar
  - entity_model_features-3.2.4-1.21.9-fabric.jar
  - entity_texture_features_1.21.9-fabric-7.1.jar
  - entityculling-fabric-1.10.5-mc1.21.10.jar
  - fabric-api-0.138.4+1.21.10.jar
+ - fast-ip-ping-v1.0.12-mc1.21.10-fabric.jar
  - ferritecore-8.1.0-fabric.jar
  - ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar
  - ImmediatelyFast-Fabric-1.13.6+1.21.10.jar
- - iris-fabric-1.9.7+mc1.21.10.jar
+ - krypton-0.2.10.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.8.7+1.21.10.jar
  - litematica-fabric-1.21.10-0.24.9.jar
@@ -196,6 +205,9 @@ Biome Blend:       1x1
  - ViaFabric-0.4.20+126-main.jar
  - voicechat-fabric-1.21.10-2.6.21.jar
  - yet_another_config_lib_v3-3.8.2+1.21.10-fabric.jar
+
+Optional (disabled by default):
+ - mods/_opcional-iris/iris-fabric-1.9.7+mc1.21.10.jar
 
 ===========================================
   CREDITS
@@ -226,7 +238,6 @@ Version: 1.0
 Date: July 2026
 Loader: Fabric
 MC Version: 1.21.10
-Mods Count: 39
+Mods Count: 42
 
 ===========================================
-

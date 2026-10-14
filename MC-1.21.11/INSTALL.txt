@@ -15,7 +15,7 @@
   WHAT'S INSIDE
 ===========================================
 
-This modpack contains 36-39 carefully selected Fabric mods
+This modpack contains 41 carefully selected Fabric mods
 that maximize FPS, reduce lag, and improve the gaming experience.
 
 Core Optimizations:
@@ -33,6 +33,11 @@ Core Optimizations:
  - ImmediatelyFast (fast rendering)
  - Debugify (bug fixes)
  - Spark (performance profiler)
+ - C2ME (async chunks)
+ - Krypton (network optimization)
+ - BetterRenderDistance (improved render distance)
+ - CullLeaves (leaf culling)
+ - Fast IP Ping (fast server join ping)
 
 Visual & Rendering:
  - LambDynamicLights (dynamic lights)
@@ -162,17 +167,22 @@ Biome Blend:       1x1
  - BadOptimizations-2.4.1-1.21.11.jar
  - BetterF3-17.0.0-Fabric-1.21.11.jar
  - BetterGrassify-1.8.7+fabric.1.21.11.jar
+ - BetterRenderDistance-1.2.0+mc1.21.11.jar
+ - c2me-fabric-mc1.21.11-0.4.0-alpha.0.28.jar
  - cloth-config-21.11.153-fabric.jar
  - continuity-3.0.1-beta.1+1.21.11.jar
+ - cullleaves-fabric-4.1.1+1.21.11-fabric.jar
  - debugify-1.21.11+1.1.jar
  - dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar
  - entity_model_features-3.2.4-1.21.11-fabric.jar
  - entity_texture_features_1.21.11-fabric-7.1.jar
  - entityculling-fabric-1.10.5-mc1.21.11.jar
  - fabric-api-0.141.5+1.21.11.jar
+ - fast-ip-ping-v1.0.12-mc1.21.11-fabric.jar
  - ferritecore-8.2.0-fabric.jar
  - ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar
  - ImmediatelyFast-Fabric-1.14.3+1.21.11.jar
+ - krypton-0.2.10.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.9.1+1.21.11.jar
  - litematica-fabric-1.21.11-0.26.12.jar
@@ -223,7 +233,6 @@ Version: 1.0
 Date: July 2026
 Loader: Fabric
 MC Version: 1.21.11
-Mods Count: 36
+Mods Count: 41
 
 ===========================================
-

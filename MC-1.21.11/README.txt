@@ -15,7 +15,7 @@ Discord: https://discord.gg/dkZpFtXXCj
   QUE INCLUYE
 ===========================================
 
-Este modpack contiene 37 mods de Fabric cuidadosamente seleccionados
+Este modpack contiene 41 mods de Fabric cuidadosamente seleccionados
 que maximizan los FPS, reducen el lag, y mejoran la experiencia de juego.
 
 Optimizaciones Centrales:
@@ -33,6 +33,11 @@ Optimizaciones Centrales:
  - ImmediatelyFast (renderizado rapido)
  - Debugify (correccion de bugs)
  - Spark (profiler de rendimiento)
+ - C2ME (chunks asincronos)
+ - Krypton (optimizacion de red)
+ - BetterRenderDistance (distancia de renderizado mejorada)
+ - CullLeaves (culling de hojas y vegetacion)
+ - Fast IP Ping (ping rapido al conectar al servidor)
 
 Visual y Rendering:
  - LambDynamicLights (luces dinamicas)
@@ -162,17 +167,22 @@ Mezcla de Biomas:          1x1
  - BadOptimizations-2.4.1-1.21.11.jar
  - BetterF3-17.0.0-Fabric-1.21.11.jar
  - BetterGrassify-1.8.7+fabric.1.21.11.jar
+ - BetterRenderDistance-1.2.0+mc1.21.11.jar
+ - c2me-fabric-mc1.21.11-0.4.0-alpha.0.28.jar
  - cloth-config-21.11.153-fabric.jar
  - continuity-3.0.1-beta.1+1.21.11.jar
+ - cullleaves-fabric-4.1.1+1.21.11-fabric.jar
  - debugify-1.21.11+1.1.jar
  - dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar
  - entity_model_features-3.2.4-1.21.11-fabric.jar
  - entity_texture_features_1.21.11-fabric-7.1.jar
  - entityculling-fabric-1.10.5-mc1.21.11.jar
  - fabric-api-0.141.5+1.21.11.jar
+ - fast-ip-ping-v1.0.12-mc1.21.11-fabric.jar
  - ferritecore-8.2.0-fabric.jar
  - ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar
  - ImmediatelyFast-Fabric-1.14.3+1.21.11.jar
+ - krypton-0.2.10.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.9.1+1.21.11.jar
  - litematica-fabric-1.21.11-0.26.12.jar
@@ -223,6 +233,6 @@ Version: 1.0
 Fecha: Julio 2026
 Loader: Fabric
 Version de MC: 1.21.11
-Cantidad de Mods: 37
+Cantidad de Mods: 41
 
 ===========================================

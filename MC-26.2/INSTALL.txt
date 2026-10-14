@@ -15,7 +15,7 @@
   WHAT'S INSIDE
 ===========================================
 
-This modpack contains 36-39 carefully selected Fabric mods
+This modpack contains 42 carefully selected Fabric mods
 that maximize FPS, reduce lag, and improve the gaming experience.
 
 Core Optimizations:
@@ -33,6 +33,11 @@ Core Optimizations:
  - ImmediatelyFast (fast rendering)
  - Debugify (bug fixes)
  - Spark (performance profiler)
+ - C2ME (async chunks)
+ - Krypton (network optimization)
+ - BetterRenderDistance (improved render distance)
+ - CullLeaves (leaf culling)
+ - Fast IP Ping (fast server join ping)
 
 Visual & Rendering:
  - LambDynamicLights (dynamic lights)
@@ -40,6 +45,7 @@ Visual & Rendering:
  - BetterGrassify (better grass)
  - Entity Model Features (entity models)
  - Entity Texture Features (entity textures)
+ - Iris Shaders (OPTIONAL - in mods/_opcional-iris, disabled by default)
 
 Utility & Information:
  - BetterF3 (debug screen)
@@ -162,19 +168,22 @@ Biome Blend:       1x1
  - BadOptimizations-2.4.1-26.2-fabric.jar
  - BetterF3-19.0.0-Fabric-26.2.jar
  - BetterGrassify-1.8.7+fabric.26.2.jar
+ - BetterRenderDistance-1.2.1+mc26.2.jar
  - c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar
  - cloth-config-26.2.155.jar
  - continuity-3.0.1+26.2.jar
+ - cullleaves-fabric-4.1.2+26.2.jar
  - debugify-26.2.0.0.jar
  - dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar
  - entity_model_features-3.2.6-26.2-fabric.jar
  - entity_texture_features-7.1.1-26.2-fabric.jar
  - entityculling-fabric-1.10.5-mc26.2.jar
  - fabric-api-0.155.2+26.2.jar
+ - fast-ip-ping-v1.0.12-mc26.2.jar
  - ferritecore-9.0.0-fabric.jar
  - ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar
  - ImmediatelyFast-Fabric-1.16.2+26.2.jar
- - iris-fabric-1.11.2+mc26.2.jar
+ - krypton-0.3.1.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.12.2+26.2.jar
  - litematica-fabric-26.2-0.28.4.jar
@@ -196,6 +205,9 @@ Biome Blend:       1x1
  - ViaFabric-0.4.21+176-26.x.jar
  - voicechat-fabric-2.6.21+26.2.jar
  - yet_another_config_lib_v3-3.9.6+26.2-fabric.jar
+
+Optional (disabled by default):
+ - mods/_opcional-iris/iris-fabric-1.11.2+mc26.2.jar
 
 ===========================================
   CREDITS
@@ -226,7 +238,6 @@ Version: 1.0
 Date: July 2026
 Loader: Fabric
 MC Version: 26.2
-Mods Count: 39
+Mods Count: 42
 
 ===========================================
-

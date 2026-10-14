@@ -15,7 +15,7 @@ Discord: https://discord.gg/dkZpFtXXCj
   QUE INCLUYE
 ===========================================
 
-Este modpack contiene 39 mods de Fabric cuidadosamente seleccionados
+Este modpack contiene 42 mods de Fabric cuidadosamente seleccionados
 que maximizan los FPS, reducen el lag, y mejoran la experiencia de juego.
 
 Optimizaciones Centrales:
@@ -33,6 +33,11 @@ Optimizaciones Centrales:
  - ImmediatelyFast (renderizado rapido)
  - Debugify (correccion de bugs)
  - Spark (profiler de rendimiento)
+ - C2ME (chunks asincronos)
+ - Krypton (optimizacion de red)
+ - BetterRenderDistance (distancia de renderizado mejorada)
+ - CullLeaves (culling de hojas y vegetacion)
+ - Fast IP Ping (ping rapido al conectar al servidor)
 
 Visual y Rendering:
  - LambDynamicLights (luces dinamicas)
@@ -40,6 +45,7 @@ Visual y Rendering:
  - BetterGrassify (mejor hierba)
  - Entity Model Features (modelos de entidad)
  - Entity Texture Features (texturas de entidad)
+ - Iris Shaders (OPCIONAL - en mods/_opcional-iris, deshabilitado por defecto)
 
 Utilidad e Informacion:
  - BetterF3 (pantalla de debug mejorada)
@@ -162,19 +168,22 @@ Mezcla de Biomas:          1x1
  - BadOptimizations-2.4.1-26.2-fabric.jar
  - BetterF3-19.0.0-Fabric-26.2.jar
  - BetterGrassify-1.8.7+fabric.26.2.jar
+ - BetterRenderDistance-1.2.1+mc26.2.jar
  - c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar
  - cloth-config-26.2.155.jar
  - continuity-3.0.1+26.2.jar
+ - cullleaves-fabric-4.1.2+26.2.jar
  - debugify-26.2.0.0.jar
  - dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar
  - entity_model_features-3.2.6-26.2-fabric.jar
  - entity_texture_features-7.1.1-26.2-fabric.jar
  - entityculling-fabric-1.10.5-mc26.2.jar
  - fabric-api-0.155.2+26.2.jar
+ - fast-ip-ping-v1.0.12-mc26.2.jar
  - ferritecore-9.0.0-fabric.jar
  - ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar
  - ImmediatelyFast-Fabric-1.16.2+26.2.jar
- - iris-fabric-1.11.2+mc26.2.jar
+ - krypton-0.3.1.jar
  - Ksyxis-1.4.3.jar
  - lambdynamiclights-4.12.2+26.2.jar
  - litematica-fabric-26.2-0.28.4.jar
@@ -196,6 +205,9 @@ Mezcla de Biomas:          1x1
  - ViaFabric-0.4.21+176-26.x.jar
  - voicechat-fabric-2.6.21+26.2.jar
  - yet_another_config_lib_v3-3.9.6+26.2-fabric.jar
+
+Opcional (desactivado por defecto):
+ - mods/_opcional-iris/iris-fabric-1.11.2+mc26.2.jar
 
 ===========================================
   CREDITOS
@@ -226,6 +238,6 @@ Version: 1.0
 Fecha: Julio 2026
 Loader: Fabric
 Version de MC: 26.2
-Cantidad de Mods: 39
+Cantidad de Mods: 42
 
 ===========================================
